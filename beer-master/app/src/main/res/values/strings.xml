@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">beer</string>
+    <string name="find_beer">Найти пиво</string>
+    <string name="brands">Пиво не выбрано</string>
+    <string-array name="beer_colors">
+        <item>Светлое</item>
+        <item>Эль</item>
+        <item>Сидр</item>
+        <item>Темное</item>
+        <item>Бочонок</item>
+    </string-array>
+</resources>
